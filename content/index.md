@@ -1,9 +1,10 @@
 ---
-title: Welcome to Quartz
+title: Home Page
 ---
+How does this work?
+[[Calculus]]
+[[Physics]]
+[[Philosophy]]
+[[Comp Sci]]
+[[Other thoughts]]
 
-Ok home Page?!
-meow
-
-
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
