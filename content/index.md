@@ -2,5 +2,9 @@
 title: Welcome to Quartz
 ---
 
-Guys holy fuck I did it!?
+Ok home Page?!
+[[Law of Inertia]]
+[[Three laws of motion]]
+
+
 See the [documentation](https://quartz.jzhao.xyz) for how to get started.

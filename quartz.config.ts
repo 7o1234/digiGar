@@ -3,7 +3,7 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "MrXcrypt",
+    pageTitle: "7o123 Stuff",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
