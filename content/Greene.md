@@ -1,0 +1,23 @@
+Beyond Point-and-Shoot Morality: Why Cognitive (Neuro)Science Matter for Ethics
+
+- This reading discusses how using cognitive neuroscience of brain wave scans and brain activity can help us draw moral conclusions. 
+- Uses brain evidence plus normative theories to produce conclusions.
+- VMPFC, Amygdala, Ventral Striatum control the "now" feelings or system 1
+- DLPFC control "later" feelings, or system 2
+	- characteristically absent in young children
+- Talks about dual-process theory aka **Central Tension Principle**
+	- System 1 typically gives deontological judgments
+	- System 2 typically gives consequentialist judgements\
+- 6 sections
+- Camera Analogy
+- efficiency and flexibility
+- Footbridge and switch cases of the trolley problem
+- Visual thinking is generally more emotionally evocative than verbal thinking
+- Citalopram
+- Mirth
+- As people get further away they are more okay with killing the one person in trolley problem
+	- personalness of problems
+- **No Cognitive Miracles** - we prefer to use system 2 in unfamiliar situations because if our intuitions guided us then that would be a cognitive miracle
+- "Why would anyone think otherwise?"
+- Rebuttals
+	- 
