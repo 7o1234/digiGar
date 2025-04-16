@@ -1,0 +1,21 @@
+Person as scientist, person as moralist
+
+- There has been a long held belief that the underlying functions that build human knowledge are inherently scientific, or similar to the ways a scientist would devise theories or analyze data
+- Religious doctrine comparison
+- However, recent evidence has shown that people may not be entirely scientific and our moral judgements can affect our intuitions
+	- Chairman and Vice-President question
+		- A Vice president asked a chairman about starting a new program that will increase profits but hurt the environment, the chairman said he did not care about the environment and implemented the program
+		- Participants almost always said the chairman intended to hurt the environment but when "hurt" is changed to "help", they always almost said the chairman *unintentionally* helped the environment
+		- Question shows that people's moral judgements about someone can influence their intuition about their state of mind even with things like intention and other wordings
+- Action trees also show us how people relate actions using words like "in order to" and "by" (lowkey a weak argument I feel but oh well), but additionally that these word choices can be influenced by moral judgements, "collapsing into a lower node" 
+- Causation judgements are also influenced by moral judgements
+	- Secretary example
+		- Secretary allows assistants to take pens but not professors, however professors still take pens
+		- One day, a professor and an assistant take the last pens and the secretary cannot take an important message, who is responsible?
+		- Often people say the professor is responsible even though they both took pens, so our moral intuitions influenced causation
+- Doing and allowing are influenced as well
+	- Doctor and homeless man
+		- Doctor is taking care of a life support homeless man, he will die within a week with LS, and he will die in 2 days without.
+		- The doctor takes the guy off of life support in one version because he thinks the man should not live his last moments on life support and in the other version because he thinks the homeless man is useless and a nuisance
+			- Version 1, people say the doctor *allowed* him to die
+			- Version 2, people say the doctor *killed* him
