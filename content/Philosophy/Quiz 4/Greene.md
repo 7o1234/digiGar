@@ -19,5 +19,5 @@ Beyond Point-and-Shoot Morality: Why Cognitive (Neuro)Science Matter for Ethics
 	- personalness of problems
 - **No Cognitive Miracles** - we prefer to use system 2 in unfamiliar situations because if our intuitions guided us then that would be a cognitive miracle
 - "Why would anyone think otherwise?"
-- Rebuttals
-	- 
+- What is the Secret Joke of Kant's Soul?
+- DDE?
