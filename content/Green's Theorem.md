@@ -7,7 +7,7 @@ ${\displaystyle \oint_C P\,dx + Q\,dy} = {\displaystyle \iint_D (\frac{\partial 
 
 Where
 
-  ![[9781305962255-ch16-0060-t2.png]]
+  ![[9781305962255-ch16-0060-t2.png]][[9781305962255-ch16-0060-t2.png]]
 
 So it seems like this is a play on the divergence theorem but I do not know what that is so yeah. The only real proof I see for this theorem is that in the case of conservative vector fields (i.e when there are multiple functions that give the same line integral, or they are path independent). $\displaystyle \frac{\partial P}{\partial y}$ should equal $\displaystyle \frac{\partial Q}{\partial x}$ and thus give a double integral of zero and the line integral gives that same answer when a closed contour is in a conservative field. Additionally Green's Theorem has some requirements. The curve must be piecewise smooth, not complex (does not intersect itself ), closed, and usually positively orientated. This is very useful by having a way to relate a line integral and a double integral, which can allow for better calculations and diverse applications.
 
