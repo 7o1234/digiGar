@@ -1,23 +1,34 @@
 Beyond Point-and-Shoot Morality: Why Cognitive (Neuro)Science Matter for Ethics
 
 - This reading discusses how using cognitive neuroscience of brain wave scans and brain activity can help us draw moral conclusions. 
-- Uses brain evidence plus normative theories to produce conclusions.
+- Direct route
+	- Uses brain evidence plus normative theories to produce conclusions.
 - VMPFC, Amygdala, Ventral Striatum control the "now" feelings or system 1
 - DLPFC control "later" feelings, or system 2
 	- characteristically absent in young children
 - Talks about dual-process theory aka **Central Tension Principle**
 	- System 1 typically gives deontological judgments
-	- System 2 typically gives consequentialist judgements\
+	- System 2 typically gives consequentialist judgements
+	- This struggle reflects the struggle in those schools of thought?
 - 6 sections
 - Camera Analogy
-- efficiency and flexibility
+	- efficiency vs flexibility
 - Footbridge and switch cases of the trolley problem
 - Visual thinking is generally more emotionally evocative than verbal thinking
 - Citalopram
 - Mirth
 - As people get further away they are more okay with killing the one person in trolley problem
 	- personalness of problems
+	- Typhoon problem
+		- In the near case, you are in a foreign developing country that gets hit with a typhoon and although you are safe in your house, you could donate money to help those suffering
+		- In the far case, it is a friend in the foreign country now
 - **No Cognitive Miracles** - we prefer to use system 2 in unfamiliar situations because if our intuitions guided us then that would be a cognitive miracle
 - "Why would anyone think otherwise?"
 - What is the Secret Joke of Kant's Soul?
+	- He wrote for the public prejudice but for scholars and not population.
 - DDE?
+	- Only basis comes from our system 1
+- Indirect route?
+	- We should use our system 2 more often to solve unfamiliar problems because we do not want a cognitive miracle with system 1
+- Intuition chasing
+- Consequentialist are not squemish but downstreamish
