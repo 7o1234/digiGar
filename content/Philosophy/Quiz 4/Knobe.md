@@ -28,7 +28,7 @@ Person as scientist, person as moralist
 
 - Then Knobe examines hypotheses that attempt to explain why the data does not seem to fit the current hypothesis 
 	- First is the motivational bias, where the brain acts like a lawyer and tries to find evidence that justifies its explanation 
-		- like we our intuitions are made and then motivational bias leads us to use incorrect evidence for a conclusion, like trying to find blame for a subject
+		- like our intuitions are made and then motivational bias leads us to use incorrect evidence for a conclusion, like trying to find blame for a subject
 	- Second, is conversational pragmatics
 		- Basically like we make the correct intuitions but since other functions of conversations try to make us a good conversation partner, we cannot accurately convey our intuitions
 	- However, no actual evidence is made for these hypotheses and only arguments for negative evidence is made
