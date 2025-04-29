@@ -15,8 +15,8 @@ Beyond Point-and-Shoot Morality: Why Cognitive (Neuro)Science Matter for Ethics
 	- efficiency vs flexibility
 - Footbridge and switch cases of the trolley problem
 - Visual thinking is generally more emotionally evocative than verbal thinking
-- Citalopram
-- Mirth
+- Citalopram - 
+- Mirth - positive reaction associated with humor
 - As people get further away they are more okay with killing the one person in trolley problem
 	- personalness of problems
 	- Typhoon problem
